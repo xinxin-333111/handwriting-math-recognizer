@@ -1,0 +1,9 @@
+{
+  "id": "handwriting-math-recognizer",
+  "name": "手写公式识别",
+  "version": "0.3.0",
+  "minAppVersion": "1.5.0",
+  "description": "在移动工具栏切换手写模式，本地识别公式并插入 LaTeX。",
+  "author": "Local plugin",
+  "isDesktopOnly": false
+}
